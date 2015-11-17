@@ -1,3 +1,4 @@
+%start
 function main
 
 bordercentermerge('border1.png', 'center1.png');
