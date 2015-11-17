@@ -1,4 +1,4 @@
-r = size(im1,1); %storing no. of rows
+r = size(im1,1); %storing no. of rows 
 c = size(im1,2); %storing no. of columns
 
 G = zeros(3,1);  %surface
