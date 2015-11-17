@@ -1,4 +1,4 @@
-function [ corners ] = CornerDetect(Image, nCorners, smoothSTD, windowSize)
+function [ corners ] = CornerDetect(Image, nCorners, smoothSTD, windowSize) 
 
 I = rgb2gray(Image);
 I = imgaussfilt(I, smoothSTD);
