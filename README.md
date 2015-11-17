@@ -1,4 +1,4 @@
-# ComputerVision
+# Computer Vision
 CSE252A - University of California,San Diego
 
 
